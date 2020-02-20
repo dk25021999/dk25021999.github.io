@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "hfjmnhg"
+  name             : ""
   avatar           : "profile.png"
   bio              : "Intersted in DOTA 2 and ML research. ; An Int. MSc student at <a style='color: black;' href='http://niser.ac.in'>National Institute of Science Education & Research.</a>""
   location         : "Bhubaneshwar"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :  "deepak.kuma@niser.ac.in"; "dk25021999@gmail.com"
+  email            : "deepak.kuma@niser.ac.in"; "dk25021999@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
